@@ -168,7 +168,7 @@ ORDER BY month;
 
 ## 👤 Author
 
-**Made by Vicky Ingle**
+**Made by Shruti Barokar**
 
 ---
 
